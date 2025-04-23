@@ -8,7 +8,7 @@
 🚀 I've explored CSS libraries like **Tailwind CSS** and **styled-components**  
 📧 Reach me at: [niranjankumar0986@gmail.com](mailto:niranjankumar0986@gmail.com)  
 🌐 Portfolio: [  
-🔗 LinkedIn: [www.linkedin.com/in/niranjan-kumar-bb56b2307](www.linkedin.com/in/niranjan-kumar-bb56b2307)
+🔗 LinkedIn: [www.linkedin.com/in/niranjan-kumar-bb56b2307](https://www.linkedin.com/in/niranjan-kumar-bb56b2307)
 
 ---
 
